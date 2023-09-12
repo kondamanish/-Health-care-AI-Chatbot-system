@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+	     
+	<category>
+      <pattern>PRINCIPAL</pattern>
+      <template>
+		<random>
+			<li>Dr.Divya Nalla has done her Phd in Computer Science in the field of Information Security and Cryptography from University of Hyderabad. Prior to this, she completed her Masters in Mathematics from Osmania University, followed by M.Phil in Mathematics in the University of Hyderabad. She had been a research associate in IDRBT that was established by the Reserve Bank of India. She also was a faculty in the prestigious MSIT program started by the Govt. of AP in 2001 in its first three years. She has done her post doctoral study in the field of Information Security from the School of Information Systems of Singapore Management University. She has published her research work in the fields of Cryptography, key management, and Information Security. She has teaching experience of 20 years of which she has been teaching various subjects in computer science, and information security, and has guided many projects in these areas..</li>
+			<li>Dr.Divya Nalla has done her Phd in Computer Science in the field of Information Security and Cryptography from University of Hyderabad. Prior to this, she completed her Masters in Mathematics from Osmania University, followed by M.Phil in Mathematics in the University of Hyderabad. She had been a research associate in IDRBT that was established by the Reserve Bank of India. She also was a faculty in the prestigious MSIT program started by the Govt. of AP in 2001 in its first three years. She has done her post doctoral study in the field of Information Security from the School of Information Systems of Singapore Management University. She has published her research work in the fields of Cryptography, key management, and Information Security. She has teaching experience of 20 years of which she has been teaching various subjects in computer science, and information security, and has guided many projects in these areas.</li>
+			<li>Dr.Divya Nalla has done her Phd in Computer Science in the field of Information Security and Cryptography from University of Hyderabad. Prior to this, she completed her Masters in Mathematics from Osmania University, followed by M.Phil in Mathematics in the University of Hyderabad. She had been a research associate in IDRBT that was established by the Reserve Bank of India. She also was a faculty in the prestigious MSIT program started by the Govt. of AP in 2001 in its first three years. She has done her post doctoral study in the field of Information Security from the School of Information Systems of Singapore Management University. She has published her research work in the fields of Cryptography, key management, and Information Security. She has teaching experience of 20 years of which she has been teaching various subjects in computer science, and information security, and has guided many projects in these areas.</li>
+		</random>
+	  </template>
+    </category>
+
+
+
+
+
+<category>
+      <pattern>MR.V MOHAN</pattern>
+      <template>
+		<random>
+			<li>Mr.V Mohan (Assistant Professor) M.Tech(CSE) He is having 12 years of teaching experience and 1 year industry experience. He is currently working as Senior Assistant Professor in the Department of Computer Science and Engineering, Nalla Malla Reddy Engineering College, Hyderabad. He is a Fellow of IETE. He has published several papers in both national and international conference proceedings. His research interests lie in the area of Data Mining and Analysis techniques and applying them for various real life data sets. Published several papers in UGC recognized journals and Scopus indexed journal in research area and Transformations in Engineering Education.He his IEEE NMREC Student Branch Counselor.</li>
+			<li>Mr.V Mohan (Assistant Professor) M.Tech(CSE) He is having 12 years of teaching experience and 1 year industry experience. He is currently working as Senior Assistant Professor in the Department of Computer Science and Engineering, Nalla Malla Reddy Engineering College, Hyderabad. He is a Fellow of IETE. He has published several papers in both national and international conference proceedings. His research interests lie in the area of Data Mining and Analysis techniques and applying them for various real life data sets. Published several papers in UGC recognized journals and Scopus indexed journal in research area and Transformations in Engineering Education.He his IEEE NMREC Student Branch Counselor.</li>
+			<li>Mr.V Mohan (Assistant Professor) M.Tech(CSE) He is having 12 years of teaching experience and 1 year industry experience. He is currently working as Senior Assistant Professor in the Department of Computer Science and Engineering, Nalla Malla Reddy Engineering College, Hyderabad. He is a Fellow of IETE. He has published several papers in both national and international conference proceedings. His research interests lie in the area of Data Mining and Analysis techniques and applying them for various real life data sets. Published several papers in UGC recognized journals and Scopus indexed journal in research area and Transformations in Engineering Education.He his IEEE NMREC Student Branch Counselor.</li>
+		</random>
+	  </template>
+    </category>
+
+      <category>
+      <pattern>CSEHOD</pattern>
+      <template>
+		<random>
+			<li>B.K.MADHAVI Associate Professor and HoD M.Tech(CSE) She has a teaching experience of 13 years in both international and national academic organizations. Currently she is pursuing her Ph.D in the field of Intrusion Detection Systems. As part of her research activities, she has published several technical papers on the topics related to her research area in International Journals and Conferences having good impact factor. Published several papers in UGC recognized journals and Scopus indexed journal in research area and Transformations in Engineering Education.She has a IEEE NMREC Student Branch Advisor and also a member of CSI.</li>
+			<li>B.K.MADHAVI Associate Professor and HoD M.Tech(CSE) She has a teaching experience of 13 years in both international and national academic organizations. Currently she is pursuing her Ph.D in the field of Intrusion Detection Systems. As part of her research activities, she has published several technical papers on the topics related to her research area in International Journals and Conferences having good impact factor. Published several papers in UGC recognized journals and Scopus indexed journal in research area and Transformations in Engineering Education.She has a IEEE NMREC Student Branch Advisor and also a member of CSI.</li>
+			<li>B.K.MADHAVI Associate Professor and HoD M.Tech(CSE) She has a teaching experience of 13 years in both international and national academic organizations. Currently she is pursuing her Ph.D in the field of Intrusion Detection Systems. As part of her research activities, she has published several technical papers on the topics related to her research area in International Journals and Conferences having good impact factor. Published several papers in UGC recognized journals and Scopus indexed journal in research area and Transformations in Engineering Education.She has a IEEE NMREC Student Branch Advisor and also a member of CSI.</li>
+		</random>
+	  </template>
+    </category>
+
+    <category>
+      <pattern>COE</pattern>
+	  <template> 
+		<random>
+			<li>Please goto this link to get details of COE: http://nmrec.edu.in/departments/cse.php</li>
+            <li>Have a look over here to get details of COE: http://nmrec.edu.in/departments/cse.php</li>
+            <li>Click on this link to get details of COE: http://nmrec.edu.in/departments/cse.php</li>
+        </random>			
+	  </template>
+	</category>
+	<category>
+		<pattern>AUTONOMY TOPPER LIST</pattern>
+		<template>
+			<random>
+				<li>Please goto this link to get autonomy topper's list : http://nmrec.edu.in/departments/cse.php</li> 
+                <li>Have a look over here to get autonomy topper's list : http://nmrec.edu.in/departments/cse.php</li>
+				<li>Click on this link to get autonomy topper's list : http://nmrec.edu.in/departments/cse.php</li>
+	        </random>
+	  </template>
+	</category>
+	<category>
+		<pattern>DOCUMENTS ISSUED COE STUDENT PASSES AUTONOMY EXAMS</pattern>
+			<template>
+				<random>
+					<li>Please goto this link to get list of documents : http://nmrec.edu.in/departments/cse.php</li>
+					<li>Have a look over here to get list of documents : http://nmrec.edu.in/departments/cse.php</li>
+					<li>Click on this link to get list of documents : http://nmrec.edu.in/departments/cse.php</li>
+                </random>       
+	   </template>
+	</category>
+	<category>
+		<pattern>FORMAT WRITING APPLICATION COE</pattern>
+		<template>
+			<random>
+				<li>Please goto this link to get the format for writing application to COE : http://nmrec.edu.in/departments/cse.php</li>
+				<li>Have a look over here to get the format for writing application to COE : http://nmrec.edu.in/departments/cse.php</li>
+				<li>Click on this link to get the format for writing application to COE : http://nmrec.edu.in/departments/cse.php</li>
+		    </random>
+	  </template>
+	</category>
+	<category>
+		<pattern>EXAMINATION COMMITTEE</pattern>
+		<template>
+			<random>
+				<li>Please goto this link to get the details about C.O.E : http://nmrec.edu.in/departments/cse.php</li>
+				<li>Have a look over here to get the details about C.O.E : http://nmrec.edu.in/departments/cse.php</li>
+				<li>Click on this link to get the details about C.O.E : http://nmrec.edu.in/departments/cse.php</li>
+		    </random>   
+	  </template>
+	</category>
+	<category>
+		<pattern>LINK RESULTS TIMETABLES</pattern>
+		<template>
+			<random>
+				<li>Please goto this link : http://nmrec.edu.in/departments/cse.php</li>
+				<li>Have a look over here : http://nmrec.edu.in/departments/cse.php</li>
+				<li>Click on this link : http://nmrec.edu.in/departments/cse.php</li>
+		    </random>   
+	  </template>
+	</category>
+</aiml>
+	
+		
